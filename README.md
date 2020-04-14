@@ -9,6 +9,6 @@ or Download codebase in zip formate and extract in your local
 
 2. run 'npm install'
 
-3. run 'ng serve' and hit 'http://localhost:4200/' from your local browser in oder to access.
+3. run 'ng serve' and hit 'http://localhost:4200/' from your local browser in order to access.
 
-** Note: Please make sure both the backend services are runnig
+** Note: Please make sure both the backend services are running
